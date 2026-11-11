@@ -1,6 +1,7 @@
 # q2 default branch demo
 
 This repository is a test fixture for [quarto-dev/q2](https://github.com/quarto-dev/q2).
+It shows the problem reported in [quarto-dev/q2#1179](https://github.com/quarto-dev/q2/issues/1179).
 It holds a small Quarto extension, `demo`, which does nothing to the document.
 
 The default branch is `develop`, and the repository also has an older `main` branch:
